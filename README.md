@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently a Founder of PrimeDATA.ai
 - 🌱 I’m currently staying at home with my wife and enjoy coding our Platform
 - 👯 I’m looking to collaborate on Marketing-science based Data Platform
 - 💬 Ask me about Consultant: CDP, System Architecture Design, Golang, Java, Python
