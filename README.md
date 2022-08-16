@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 -->
 - 🌱 I’m currently staying at home with my son and wife.
-- 👯 I’m working for McKinsey & Company as Digital Spcecialist
 - 💬 Ask me about Consultant: Digital Marketing, Digital Data Platform, System Architecture Design
 - 🧠 Training: Solidity, Golang, Java, Python, TDD, DDD
 - 📫 How to reach me: me@paulaan.me
